@@ -1,0 +1,15 @@
+{
+  "name": "AtomCEPTypeScript",
+  "version": "1.0.0",
+  "description": "![demo](https://thumbs.gfycat.com/ThoughtfulImpressiveGrasshopper-size_restricted.gif)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "types-for-adobe": "github:pravdomil/types-for-adobe"
+  }
+}

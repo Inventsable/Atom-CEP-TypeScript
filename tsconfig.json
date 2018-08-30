@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noLib": true,
+    "types": [
+      "types-for-adobe/illustrator/2015.3"
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
