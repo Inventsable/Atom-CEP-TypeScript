@@ -1,0 +1,18 @@
+{
+  "compileOnSave": true,      // Top level option
+  "compilerOptions": {
+    "outFile": "./JSXcompiled.jsx",  // file to target for Process Palette
+    "allowJs": true,
+    "noLib": true,
+    "module": "commonjs",
+    "types": [
+      "types-for-adobe/illustrator/2015.3"   // type for Illustrator
+    ]
+  },
+  "files": [
+    "JSX.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
